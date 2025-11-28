@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db   = 'zonmart';
 $user = 'root';
-$pass = 'Tanvi$10';
+$pass = ''; //add your password
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
